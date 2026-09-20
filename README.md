@@ -11,7 +11,7 @@ A static personal portfolio site for Ravi Mukkapati, built with plain HTML, CSS,
 ├── script.js
 ├── vercel.json
 ├── assets/
-│   ├── ravi-mukkapati-profile.jpg
+│   ├── ravi-mukkapati-profile.png
 │   ├── favicon-profile.png
 │   ├── Ravi_Mukkapati_Resume.pdf
 │   └── Ravi_Mukkapati_Resume.docx
